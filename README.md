@@ -20,8 +20,6 @@
 
 <p align="center">
   <a href="https://github.com/bernardogeneroso"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=bernardogeneroso&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bernardogeneroso&hide=html,css,typescript,javascript,scss&layout=compact&langs_count=8&theme=dracula"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardogeneroso&theme=dracula" />
     </span></a>
 </p>
