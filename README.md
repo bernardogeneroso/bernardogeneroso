@@ -1,5 +1,8 @@
 <h1> Hi there <img src="https://raw.githubusercontent.com/bernardogeneroso/bernardogeneroso/main/assets/hi.gif" width="30px"></h1>
 
+<br><br>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
 ---
 
  <div>
