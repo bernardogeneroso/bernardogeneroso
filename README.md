@@ -100,3 +100,5 @@ I have been acquiring knowledge in Javascript and TypeScript languages using the
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardogeneroso&theme=dracula" />
     </span></a>
 </p>
+
+![Snake animation](https://github.com/bernardogeneroso/bernardogeneroso/blob/output/github-contribution-grid-snake.svg)
