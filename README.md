@@ -2,12 +2,13 @@
 
 I'm Full-Stack Developer.
 
+<!--
 :sparkles: To know more about me, open your terminal and run the command below:
 
 ```bash
 npx bernardogeneroso
 ```
-
+-->
 Web programming is my great interest.
 
 I have been acquiring knowledge in Javascript and TypeScript languages using the NodeJS, ReactJS & React Native.
