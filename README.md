@@ -1,5 +1,6 @@
 # Hey Everyone! I'm [Bernardo Generoso](https://github.com/amandewatnitrr) <img src="https://raw.githubusercontent.com/bernardogeneroso/bernardogeneroso/main/assets/hi.gif" width="25px">
 
+<br>
 <a href="https://www.linkedin.com/in/bernardo-generoso-829ba81b0/">
   <img align="left" alt="Bernardo Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
