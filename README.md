@@ -21,10 +21,10 @@ I have been acquiring knowledge in Javascript and TypeScript languages using the
   <img align="left" alt="Bernardo Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="#">
-  <img align="left" alt="Bernardo Discord" title="Bernardo Generoso#2273" width="70px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img align="left" alt="Bernardo Discord" title="Bernardo Generoso#2273" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="mailto:admin@bernardogeneroso.com">
-  <img align="left" alt="Bernardo mail" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img align="left" alt="Bernardo mail" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <br><br>
 
