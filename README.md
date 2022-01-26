@@ -11,7 +11,7 @@ npx bernardogeneroso
 -->
 Web programming is my great interest.
 
-I have been acquiring knowledge in Javascript and TypeScript languages using the NodeJS, ReactJS & React Native.
+I have been acquiring knowledge in .NET, Javascript and TypeScript languages using the ASP.NET Core, NodeJS, ReactJS & React Native.
 
 <br>
 <a href="https://www.linkedin.com/in/bernardo-generoso-829ba81b0/">
