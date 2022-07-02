@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Bernardo Generoso](https://github.com/bernardogeneroso) <img src="https://raw.githubusercontent.com/bernardogeneroso/bernardogeneroso/main/assets/hi.gif" width="25px">
+# Hey Everyone! I'm [Bernardo Generoso](https://github.com/bernardogeneroso) <img src="https://raw.githubusercontent.com/bernardogeneroso/bernardogeneroso/main/assets/hi.gif" width="30px">
 
 I'm Full-Stack Developer.
 
